@@ -4,7 +4,7 @@ FullName: ArbutusSlab
 FamilyName: Arbutus Slab
 Weight: Book
 Copyright: Copyright (c) 2012 by Sorkin Type Co.. All rights reserved.
-Version: 1.001; ttfautohint (v0.92) -l 10 -r 16 -G 200 -x 7 -w "GD"
+Version: 1.002; ttfautohint (v0.92) -l 10 -r 16 -G 200 -x 7 -w "GD"
 ItalicAngle: 0
 UnderlinePosition: -125
 UnderlineWidth: 130
